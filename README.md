@@ -39,6 +39,7 @@ Run command below to install python libraries.
 
 ```shell
 python install -r ./requirements.txt
+pip install -r ./requirements.txt
 ```
 
 ## Running the app
