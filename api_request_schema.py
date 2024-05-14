@@ -27,8 +27,8 @@ api_request_list = {
             }
         }
     },
-    'anthropic.claude-v2:1': {
-        "modelId": "anthropic.claude-v2:1",
+    'anthropic.claude-v3': {
+        "modelId": "anthropic.claude-v3",
         "contentType": "application/json",
         "accept": "*/*",
         "body": {
